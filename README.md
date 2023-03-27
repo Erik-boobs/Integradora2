@@ -72,7 +72,7 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 <!-- Organigrama -->
 ### Organigrama.
-![Organigrama del equipo](![organigrama](https://user-images.githubusercontent.com/84553507/228033515-0545b171-66be-41d9-a574-5ec755c3f04f.jpg)
+(![organigrama](https://user-images.githubusercontent.com/84553507/228033515-0545b171-66be-41d9-a574-5ec755c3f04f.jpg)
 
 
 
