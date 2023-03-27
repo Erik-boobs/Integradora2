@@ -110,7 +110,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 ![Diagrama de clase UML](https://user-images.githubusercontent.com/84553507/228042253-cc5a849f-4fe0-4dbd-81a7-8140bf2214c1.jpg)
 
 <!-- Diagrama de Componentes -->
-#### Diagrama de Componentes.
+### Diagrama de Componentes.
 Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
 
 
@@ -119,15 +119,15 @@ Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servido
 En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Estándares de Codificación -->
-#### Estándares Codificación.
+### Estándares Codificación.
 Estándares empleados en la codificación
 
 <!-- Arquitectura MVC y Middleware -->
-#### Arquitectura.
+### Arquitectura.
 Definir los patrones empleados y de seguridad.
 
 <!-- Código Fuente -->
-#### Código Fuente.
+### Código Fuente.
 Código Fuente de la solución
 
 
@@ -136,11 +136,11 @@ Código Fuente de la solución
 En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
-#### Casos de prueba.
+### Casos de prueba.
 Indicar los casos de prueba
 
 <!-- Ejecución Casos de prueba -->
-#### Ejecución.
+### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
 
 
@@ -177,7 +177,7 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [Erik Daniel Méndez Enríquez](https://github.com/Erik-boobs)
+* [Erik Daniel Méndez Enríquez]()
 * [José Armando Gutíerrez Rodríguez]()
 * [Julio Samuel Torres Reyes]()
 * [Miguel Ánguel Anastacio Nava]()
