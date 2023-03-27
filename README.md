@@ -10,8 +10,7 @@
       <ul>
         <li><a href="#descripción">Descripción</a></li>
         <li><a href="#objetivos">Objetivos</a>
-  - Objetivo General del proyecto
-          Nuestro proyecto tiene como propósito principal desarrollar un sistema informático para un gimnasio desde cero, basándonos en las necesidades y       requerimientos de la empresa iTTiVA. Cumpliendo con los requerimientos propuestos en la documentación y entregando un sistema completo y funcional en el tiempo estimado.
+        ### Objetivo General del Sistema
         </li>
         <li><a href="#organigrama">Organigrama</a></li>
         <li><a href="#diagrama-gantt">Diagrama Gantt</a></li>
