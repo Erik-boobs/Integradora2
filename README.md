@@ -90,7 +90,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 <!-- Requerimientos -->
 ### Requerimientos.
 ![Requerimientos](https://user-images.githubusercontent.com/84553507/228040031-a1091ae1-75f7-4989-87eb-242e6722a283.png)
-![Requerimientoss](https://user-images.githubusercontent.com/84553507/228049965-05710945-db59-4671-9cb2-0782168e53bf.jpg)
+
 
 
 <!-- Diagrama de Casos de Uso -->
