@@ -64,7 +64,11 @@ Indicar la descripción del proyecto (tiempo, costo y calidad).
 
 <!-- Objetivos -->
 #### Objetivos.
-Indicar los objetivos del proyecto.
+#### Objetivos Generales del proyecto.
+Nuestro proyecto tiene como propósito principal desarrollar un sistema informático para un gimnasio desde cero, basándonos en las necesidades y requerimientos de la empresa iTTiVA. Cumpliendo con los requerimientos propuestos en la documentación y entregando un sistema completo y funcional en el tiempo estimado.
+
+#### Objetivos Especificos.
+Por otro lado, la idea de implementar este tipo de proyecto con estas especificaciones tiene como objetivo aprender y llevarse experiencia y conocimiento que nos aportará herramientas para ser empleadas en un futuro en nuestra carrera profesional.
 
 <!-- Organigrama -->
 #### Organigrama.
