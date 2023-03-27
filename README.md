@@ -59,8 +59,11 @@
 Requisitos.
 
 <!-- Descripción -->
-#### Descripción.
-Indicar la descripción del proyecto (tiempo, costo y calidad).
+### Descripción.
+Este proyecto consta del desarrollo de un sistema informático del gimnasio Fitness Center que se ubica en la calle Nayarit #52-B, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato. Que administre y gestione sus servicios. El proyecto tiene como fin desarrollar un sistema que cumpla con ciertas funcionalidades en las cual podemos hablar de que son las de login par a la administración de usuarios como una de productos para la gestión de compra y venta de estos, un registro de ventas, un registro de clientes para su suscripción y un sistema que gestiona las horas de llegada para administrar un gimnasio.
+Se planea que el proyecto se realice en un plazo de cuatro meses (enero – abril) o alrededor de 16 a 18 semanas. Como fecha final de entrega el 21 de abril.
+Se estima que el costo del desarrollo de este proyecto sea de $30, 720.00 Incluyendo el sueldo de los desarrolladores así como otros costos.
+
 
 <!-- Objetivos -->
 ### Objetivos.
@@ -72,26 +75,26 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 <!-- Organigrama -->
 ### Organigrama.
-(![organigrama](https://user-images.githubusercontent.com/84553507/228033515-0545b171-66be-41d9-a574-5ec755c3f04f.jpg)
-
+![organigrama](https://user-images.githubusercontent.com/84553507/228033515-0545b171-66be-41d9-a574-5ec755c3f04f.jpg)
 
 
 <!-- Diagrama Gantt -->
-#### Diagrama Gantt.
-Diagrama Gantt.
+### Diagrama Gantt.
+![Gantt](https://user-images.githubusercontent.com/84553507/228038870-0977b2e9-473a-448b-82a1-5bac616af003.png)
+
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
-#### Requerimientos.
-Listado de los requerimientos (código requerimiento, descripción)
+### Requerimientos.
+![Requerimientos](https://user-images.githubusercontent.com/84553507/228040031-a1091ae1-75f7-4989-87eb-242e6722a283.png)
+
 
 <!-- Diagrama de Casos de Uso -->
-#### Diagrama Casos de Uso.
-Agregar la imagen de los Casos de Uso.
-
+### Diagrama Casos de Uso.
+![Diagrama casos de uso](https://user-images.githubusercontent.com/84553507/228041533-b1d7d486-96fd-4240-8e6a-c99c6b5e7e36.jpg)
 
 
 <!-- Diseño del proyecto -->
@@ -99,12 +102,12 @@ Agregar la imagen de los Casos de Uso.
 En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Modelo Relacional -->
-#### Modelo Relacional.
-Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
+### Propuesta del modelo de la base de datos.
+![coleccion](https://user-images.githubusercontent.com/84553507/228043655-994cc712-7dc4-49ba-9dc5-d4501e72f40f.jpg)
 
 <!-- Diagrama de Clases -->
-#### Diagrama de Clases.
-Esquema de las clases empleadas (atributos y sus métodos).
+### Diagrama de Clases.
+![Diagrama de clase UML](https://user-images.githubusercontent.com/84553507/228042253-cc5a849f-4fe0-4dbd-81a7-8140bf2214c1.jpg)
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
@@ -167,9 +170,10 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [participante 1]()
-* [participante 2]()
-* [participante 3]()
+* [Erik Daniel Mçendez Enríquez]()
+* [José Armando Gutíerrez Rodríguez]()
+* [Julio Samuel Torres Reyes]()
+* [Miguel Ánguel Anastacio Nava]()
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
