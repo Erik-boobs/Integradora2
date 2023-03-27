@@ -63,7 +63,7 @@ Requisitos.
 Indicar la descripción del proyecto (tiempo, costo y calidad).
 
 <!-- Objetivos -->
-#### Objetivos.
+### Objetivos.
 #### Objetivos Generales del proyecto.
 Nuestro proyecto tiene como propósito principal desarrollar un sistema informático para un gimnasio desde cero, basándonos en las necesidades y requerimientos de la empresa iTTiVA. Cumpliendo con los requerimientos propuestos en la documentación y entregando un sistema completo y funcional en el tiempo estimado.
 
