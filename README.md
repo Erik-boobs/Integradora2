@@ -150,11 +150,18 @@ Iniciando.
 
 <!-- Requisitos -->
 ### Requisitos
-Requisitos de Instalación.
+* Poseer un equipo informático con un sistema operativo windows 10 o windows 11.
+* Tener al menos 100GB de almacenamiento libre.
+* Tener una memoria RAM de al menos 8GB.
+* Estar conectado a una red de internet.
+* Tener instalado Node.Js.
+* Tener instalado Spring Boot.
+* Tener instalado Angular.
+* Tener importada la libreria de bootstrap.
 
 <!-- Instalación -->
 ### Instalacion
-Instalación del Software
+Instalac ión del Software
 
 
 ## Guias
@@ -170,7 +177,7 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [Erik Daniel Mçendez Enríquez]()
+* [Erik Daniel Méndez Enríquez](https://github.com/Erik-boobs)
 * [José Armando Gutíerrez Rodríguez]()
 * [Julio Samuel Torres Reyes]()
 * [Miguel Ánguel Anastacio Nava]()
