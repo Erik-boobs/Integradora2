@@ -71,8 +71,9 @@ Nuestro proyecto tiene como propósito principal desarrollar un sistema informá
 Por otro lado, la idea de implementar este tipo de proyecto con estas especificaciones tiene como objetivo aprender y llevarse experiencia y conocimiento que nos aportará herramientas para ser empleadas en un futuro en nuestra carrera profesional.
 
 <!-- Organigrama -->
-#### Organigrama.
-Organigrama.
+### Organigrama.
+![Organigrama del equipo](image.png)
+
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
