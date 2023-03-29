@@ -88,7 +88,24 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 ### Requerimientos.
-![Requerimientos](https://user-images.githubusercontent.com/84553507/228040031-a1091ae1-75f7-4989-87eb-242e6722a283.png)
+
+| Clave de requerimiento |                                                                           Descripción                                                                           |
+|:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|          RF01          | El sistema permitirá agregar nuevos proveedores                                                                                                                 |
+|          RF02          | El sistema permitirá actualizar la información de los proveedores                                                                                               |
+|          RF03          | El sistema permitirá eliminar cualquier proveedor por su nombre                                                                                                 |
+|          RF04          | El sistema permitirá consultar datos de los proveedores por medio de filtros                                                                                    |
+|          RF05          | El sistema aloja la información de los proveedores: Id Proveedor Nombre del Proveedor Teléfono Correo electrónico  Ubicación Productos                          |
+|          RF06          | El sistema no permitirá tener registros duplicados (dos proveedores con el mismo nombre)                                                                        |
+|          RF07          | Los proveedores se registran con al menos un producto                                                                                                           |
+|          RF08          | Los proveedores no podrán tener campos vacíos                                                                                                                   |
+|          RF09          | El sistema enviará una notificación cuando se realice una inserción                                                                                             |
+|          RF10          | El sistema solo permitirá ingresar a un usuario registrado                                                                                                      |
+|          RF11          | El administrador es el único que puede registrar usuarios                                                                                                       |
+|          RF12          | El sistema contará con un formulario para registrar usuarios solo si somos el administrador  y podremos ingresar a tal formulario desde una barra de navegación |
+|          RF13          | El sistema mostrará los proveedores en una interfaz gráfica donde podremos acceder a su  información o eliminarlo con un botón                                  |
+|          RF14          | La información de los proveedores se visualizará en una interfaz gráfica distinta a donde  se encuentran los proveedores                                        |
+|          RF15          | El sistema contará con un botón para direccionarnos al formulario para agregar proveedores                                                                      |
 
 
 <!-- Diagrama de Casos de Uso -->
