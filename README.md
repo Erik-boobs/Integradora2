@@ -119,11 +119,29 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Estándares de Codificación -->
 ### Estándares Codificación.
-Estándares empleados en la codificación
+#### Front-End.
+* Utilizar HTML5, CSS3 y JavaScript como versiones principales de lenguaje.
+* Utilizar los frameworks Angular y Bootstrap.
+* Identar el código HTML con dos espacios para mejorar la legibilidad.
+* Utilizar atributos alt en las imágenes para mejorar la accesibilidad del sitio.
+* Hacer uso de los colores de la plantilla proporcionada por iTTiVA.
+* Indentar el código CSS con dos espacios para mejorar la legibilidad.
+* Utilizar técnicas de responsive design para asegurar que el sitio se vea bien en diferentes tamaños de pantalla.
+* Las pantallas contendras una pantalla de carga al redireccionar a otra.
+* Se hara el uso de clases de estilo bootstrap en los componentes.
+* Se hara uso de ids para identificar componentes.
+
+#### Back-End.
+* Utilizar MongoDB como sistema gestor de base de datos.
+* Utilizar Spring Boot.
 
 <!-- Arquitectura MVC y Middleware -->
 ### Arquitectura.
-Definir los patrones empleados y de seguridad.
+#### Patrones empleados.
+* MVC (Modelo-Vista-Controlador): Este patrón divide la aplicación en tres componentes: el modelo (que maneja la lógica de negocios y la interacción con la base de datos), la vista (que maneja la presentación de la información al usuario) y el controlador (que maneja la interacción entre el modelo y la vista). Se utilizará este patrón para separar de manera clara la presentación, la lógica y la base de datos.
+
+#### Seguridad.
+* Autenticación y autorización: Se utilizará autenticación y autorización para garantizar que solo los usuarios autorizados puedan acceder a ciertas partes de la aplicación. Se utilizará una combinación de nombre de usuario y contraseña y tokens de autenticación para manejar la autenticación.
 
 <!-- Código Fuente -->
 ### Código Fuente.
