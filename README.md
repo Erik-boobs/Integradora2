@@ -127,7 +127,8 @@ Definir los patrones empleados y de seguridad.
 
 <!-- Código Fuente -->
 ### Código Fuente.
-Código Fuente de la solución
+* [Front-End](https://github.com/ArmandoxxXD/front-end-integradora.git)
+* [Back-End](https://github.com/ArmandoxxXD/back-end-integradora.git)
 
 
 <!-- Pruebas proyecto -->
