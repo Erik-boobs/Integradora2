@@ -10,7 +10,6 @@
       <ul>
         <li><a href="#descripción">Descripción</a></li>
         <li><a href="#objetivos">Objetivos</a>
-        ### Objetivo General del Sistema
         </li>
         <li><a href="#organigrama">Organigrama</a></li>
         <li><a href="#diagrama-gantt">Diagrama Gantt</a></li>
@@ -92,7 +91,6 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 ![Requerimientos](https://user-images.githubusercontent.com/84553507/228040031-a1091ae1-75f7-4989-87eb-242e6722a283.png)
 
 
-
 <!-- Diagrama de Casos de Uso -->
 ### Diagrama Casos de Uso.
 ![Diagrama casos de uso](https://user-images.githubusercontent.com/84553507/228041533-b1d7d486-96fd-4240-8e6a-c99c6b5e7e36.jpg)
@@ -162,7 +160,7 @@ Iniciando.
 
 <!-- Instalación -->
 ### Instalacion
-Instalac ión del Software
+Instalación del Software
 
 
 ## Guias
