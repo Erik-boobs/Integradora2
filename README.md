@@ -172,11 +172,26 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
 ### Casos de prueba.
-Indicar los casos de prueba
+#### Inicar sesión.
+![iniciar](https://user-images.githubusercontent.com/84553507/229186469-a73288d7-4df3-45fd-a7f0-d11ac3941f89.png)
 
-<!-- Ejecución Casos de prueba -->
-### Ejecución.
-Evidencia de Ejecución de Casos de prueba.
+#### Agregar Proveedor.
+![agregarProv](https://user-images.githubusercontent.com/84553507/229186605-6dc9e24b-4423-4781-a146-643404afd188.png)
+
+#### Editar Proveedor.
+![EditarProv](https://user-images.githubusercontent.com/84553507/229186649-51678c38-c28e-4d0c-8e3d-74e14cf6e659.png)
+
+#### Eliminar Proveedor.
+![Eliminarprov](https://user-images.githubusercontent.com/84553507/229186684-2e95f9d2-0602-43cd-9bb5-e058edf5b209.png)
+
+#### Agregar Producto.
+![AgregarProd](https://user-images.githubusercontent.com/84553507/229186718-6ef8f07c-55d6-4281-9fde-dc5a1969017e.png)
+
+#### Editar Producto.
+![EditarProduc](https://user-images.githubusercontent.com/84553507/229186769-b5e49eec-b380-4d31-9bc0-1d0e7148a486.png)
+
+#### Eliminar Producto.
+![Eliminarproduct](https://user-images.githubusercontent.com/84553507/229186844-90c7994e-39d4-409b-bb31-f0e1c468d75a.png)
 
 
 <!-- Iniciando -->
