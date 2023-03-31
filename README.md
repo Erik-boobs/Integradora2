@@ -173,25 +173,32 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 <!-- Casos de prueba -->
 ### Casos de prueba.
 #### Inicar sesión.
-![iniciar](https://user-images.githubusercontent.com/84553507/229186469-a73288d7-4df3-45fd-a7f0-d11ac3941f89.png)
+![1](https://user-images.githubusercontent.com/84553507/229188017-d1efa12c-0069-4e6b-b00d-1961fdb85abf.png)
+
 
 #### Agregar Proveedor.
-![agregarProv](https://user-images.githubusercontent.com/84553507/229186605-6dc9e24b-4423-4781-a146-643404afd188.png)
+![2](https://user-images.githubusercontent.com/84553507/229188140-5c1f3b4e-e60b-48dd-9643-bead1df84f5f.png)
+
 
 #### Editar Proveedor.
-![EditarProv](https://user-images.githubusercontent.com/84553507/229186649-51678c38-c28e-4d0c-8e3d-74e14cf6e659.png)
+![3](https://user-images.githubusercontent.com/84553507/229188164-a1033cc0-75f3-40de-b0cb-3c46f994c480.png)
+
 
 #### Eliminar Proveedor.
-![Eliminarprov](https://user-images.githubusercontent.com/84553507/229186684-2e95f9d2-0602-43cd-9bb5-e058edf5b209.png)
+![4](https://user-images.githubusercontent.com/84553507/229188186-b912e275-5eeb-45e2-bf7c-eb769429b289.png)
+
 
 #### Agregar Producto.
-![AgregarProd](https://user-images.githubusercontent.com/84553507/229186718-6ef8f07c-55d6-4281-9fde-dc5a1969017e.png)
+![5](https://user-images.githubusercontent.com/84553507/229188201-97d6590f-277e-40e3-98d8-7483ccef3a50.png)
+
 
 #### Editar Producto.
-![EditarProduc](https://user-images.githubusercontent.com/84553507/229186769-b5e49eec-b380-4d31-9bc0-1d0e7148a486.png)
+![6](https://user-images.githubusercontent.com/84553507/229188223-881db2cb-35c8-4d0f-b83b-777e3d236be2.png)
+
 
 #### Eliminar Producto.
-![Eliminarproduct](https://user-images.githubusercontent.com/84553507/229186844-90c7994e-39d4-409b-bb31-f0e1c468d75a.png)
+![7](https://user-images.githubusercontent.com/84553507/229188261-864b8888-574c-4fd3-8055-e762443f6fa7.png)
+
 
 
 <!-- Iniciando -->
