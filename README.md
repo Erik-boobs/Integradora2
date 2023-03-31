@@ -218,20 +218,26 @@ Iniciando.
 
 <!-- Instalación -->
 ### Instalacion
-Instalación del Software
+* Visual Studio Code.
+* Spring boot.
+* Angular
+* Bootstrap
+* Node JS
+* MongoDB
 
 
 ## Guias
 Guias de Uso.
 
 ## contribucion
-Contribucion.
+Grupo GDS0452
+Profesor Gabriel Barrón Rodríguez
 
 ## Licencia
 Licencia.
 
 ## Contacto
-Contacto.
+Erikmendex840@gmail.com 4181552063
 
 ## Participantes
 * [Erik Daniel Méndez Enríquez]()
