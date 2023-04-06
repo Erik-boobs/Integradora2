@@ -55,14 +55,11 @@
 
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
-Requisitos.
-
 <!-- Descripción -->
 ### Descripción.
 Este proyecto consta del desarrollo de un sistema informático del gimnasio Fitness Center que se ubica en la calle Nayarit #52-B, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato. Que administre y gestione sus servicios. El proyecto tiene como fin desarrollar un sistema que cumpla con ciertas funcionalidades en las cual podemos hablar de que son las de login par a la administración de usuarios como una de productos para la gestión de compra y venta de estos, un registro de ventas, un registro de clientes para su suscripción y un sistema que gestiona las horas de llegada para administrar un gimnasio.
 Se planea que el proyecto se realice en un plazo de cuatro meses (enero – abril) o alrededor de 16 a 18 semanas. Como fecha final de entrega el 21 de abril.
 Se estima que el costo del desarrollo de este proyecto sea de $30, 720.00 Incluyendo el sueldo de los desarrolladores así como otros costos.
-
 
 <!-- Objetivos -->
 ### Objetivos.
@@ -76,11 +73,9 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 ### Organigrama.
 ![organigrama](https://user-images.githubusercontent.com/84553507/228033515-0545b171-66be-41d9-a574-5ec755c3f04f.jpg)
 
-
 <!-- Diagrama Gantt -->
 ### Diagrama Gantt.
 ![Gantt](https://user-images.githubusercontent.com/84553507/228038870-0977b2e9-473a-448b-82a1-5bac616af003.png)
-
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
@@ -107,11 +102,12 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 |          RF14          | La información de los proveedores se visualizará en una interfaz gráfica distinta a donde  se encuentran los proveedores                                        |
 |          RF15          | El sistema contará con un botón para direccionarnos al formulario para agregar proveedores                                                                      |
 
+### Historias de Usuario.
+
 
 <!-- Diagrama de Casos de Uso -->
 ### Diagrama Casos de Uso.
 ![Diagrama casos de uso](https://user-images.githubusercontent.com/84553507/228041533-b1d7d486-96fd-4240-8e6a-c99c6b5e7e36.jpg)
-
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
