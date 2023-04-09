@@ -79,7 +79,6 @@ Por otro lado, la idea de implementar este tipo de proyecto con estas especifica
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
-En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 ### Requerimientos.
@@ -128,7 +127,6 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Implementación del proyecto -->
 ## Implementación.
-En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Estándares de Codificación -->
 ### Estándares Codificación.
@@ -208,22 +206,18 @@ Iniciando.
 * Tener una memoria RAM de al menos 8GB.
 * Estar conectado a una red de internet.
 * Tener instalado Node.Js.
-* Tener instalado Spring Boot.
+* Tener instalado Git.
+* Tener instalado Spring Boot (En nuestro caso una extensión para poder usarla en 
+VS Code)
 * Tener instalado Angular.
-* Tener importada la libreria de bootstrap.
+* Contar con una versión instalada del SDK de Java con la versión 17 SE
 
 <!-- Instalación -->
 ### Instalacion
-* Visual Studio Code.
-* Spring boot.
-* Angular
-* Bootstrap
-* Node JS
-* MongoDB
 
 
 ## Guias
-Guias de Uso.
+
 
 ## contribucion
 Grupo GDS0452
