@@ -114,7 +114,8 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Modelo Relacional -->
 ### Propuesta del modelo de la base de datos.
-![coleccion](https://user-images.githubusercontent.com/84553507/228043655-994cc712-7dc4-49ba-9dc5-d4501e72f40f.jpg)
+![Colección](https://user-images.githubusercontent.com/84553507/231831673-894cf7b7-16df-4215-95ee-e5682d0787a8.png)
+
 
 <!-- Diagrama de Clases -->
 ### Diagrama de Clases.
